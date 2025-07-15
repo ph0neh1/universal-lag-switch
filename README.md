@@ -17,8 +17,9 @@ Universal-lagswitch is a windows exclusive python script designed to unblock/blo
 1. Run `lagswitch.py` via Python and follow instructions
 - You have to find the PID of the game or application to use this script, you can find this through CMD using the command `tasklist`
 
-2. Run `recovery.py` via Python
-- This is a fully automated script designed to delete old rules that may have been left behind (for ex. accidental shutdowns)
+### Recovery
+1. Run `recovery.py` via Python
+- This is a fully automated script designed to delete old rules that may have been left behind (for e.g. accidental shutdowns or crashes)
 
 ## Credits
 1. Original author: ph0neh1
