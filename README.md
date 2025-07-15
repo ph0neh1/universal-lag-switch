@@ -14,7 +14,7 @@ Universal-lagswitch is a windows exclusive python script designed to unblock/blo
 - `psutil` installed.
 
 ### How to use
-1. Run `script.py` via Python and follow instructions
+1. Run `lagswitch.py` via Python and follow instructions
 - You have to find the PID of the game or application to use this script, you can find this through CMD using the command `tasklist`
 
 ### Recovery
